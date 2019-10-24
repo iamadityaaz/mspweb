@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "mspcitranchi",
+    "mspcitranchi-deploy": "mspcitranchi-9ab95",
+    "mspcitranchi-host": "mspcitranchi-9ab95",
+    "mspcitranchi-deploy1": "mspcitranchi"
+  }
+}

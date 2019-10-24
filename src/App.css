@@ -20,3 +20,10 @@
 .App-link {
   color: #09d3ac;
 }
+
+.nav-link {
+  color: rgb(0, 0, 0);
+}
+.nav-link:hover {
+   color: rgb(136, 136, 146)
+}
